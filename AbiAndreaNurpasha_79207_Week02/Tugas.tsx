@@ -9,7 +9,7 @@ const Tugas = () => {
                 justifyContent: 'center',
                 alignItems: 'center',
                 width: '100%',
-                padding: 20
+                padding: 50
             }}>
                 <Text style={styles.header}>WEEK 02</Text>
             </View>
