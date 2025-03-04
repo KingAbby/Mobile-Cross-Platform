@@ -1,0 +1,52 @@
+[
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "photo_url": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "photo_url": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "name": "Mike Johnson",
+      "email": "mike.johnson@example.com",
+      "photo_url": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "photo_url": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "photo_url": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "photo_url": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "name": "Robert Taylor",
+      "email": "robert.taylor@example.com",
+      "photo_url": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "name": "Lisa Anderson",
+      "email": "lisa.anderson@example.com",
+      "photo_url": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "name": "Michael Chen",
+      "email": "michael.chen@example.com",
+      "photo_url": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "name": "Amanda White",
+      "email": "amanda.white@example.com",
+      "photo_url": "https://randomuser.me/api/portraits/women/5.jpg"
+    }
+]
