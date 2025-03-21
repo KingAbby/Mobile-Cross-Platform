@@ -1,5 +1,5 @@
 import { ScrollView, View, TouchableOpacity, Image, Text, StyleSheet } from 'react-native';
-import { theme } from '../style/Theme';
+import { theme } from '../styles/Theme';
 import userData from '../data.json';
 
 const UserList = ({ navigation }) => {

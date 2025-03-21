@@ -2,7 +2,7 @@ import React from 'react';
 import { View, StyleSheet, Image } from 'react-native';
 import { Card, Title, Paragraph, Divider } from 'react-native-paper';
 import { RouteProp, useRoute } from '@react-navigation/native';
-import { theme, spacing, shadow } from '../style/Theme';
+import { theme, spacing, shadow } from '../styles/Theme';
 
 interface User {
   name: string;
